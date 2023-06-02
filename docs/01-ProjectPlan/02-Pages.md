@@ -40,7 +40,7 @@ The Contact Us page provides users with various methods to get in touch with the
 
 ## Support Pop Up
 
-The Support Pop-up is a chat app-style modal that allows users to contact the mortgage lending company for support or inquiries. When triggered, the pop-up displays a chat interface where users can type their questions or concerns. It may also provide predefined options to navigate to the Help Center articles or message the business through Facebook Messenger. This feature offers real-time assistance to users and helps address their queries efficiently.
+The Support Pop-up is a chat app-style modal that allows users to contact the mortgage lending company for support or inquiries. When triggered, the pop-up displays a interface where users can find resources. It also provides predefined options to navigate to the Help Center articles or message the business through Facebook Messenger. This feature offers real-time assistance to users and helps address their queries efficiently.
 
 
 <img src="/img/website/support.jpg"></img>
