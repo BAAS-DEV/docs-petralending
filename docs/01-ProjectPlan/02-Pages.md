@@ -23,13 +23,13 @@ The Social page typically contains links or widgets that connect visitors to the
 The Help Center page offers resources and support to users seeking assistance or information. It may include a knowledge base with articles, FAQs, and tutorials related to mortgage lending, loan application process, interest rates, and other relevant topics. The Help Center helps users find answers to common questions and provides self-service options to enhance their experience on the website.
 
 <img src="/img/website/HelpCenter.png"></img>
-<img src="/img/website/HelpDetails.png"></img>
 
 ## Prequalification
 
 The Prequalification page is a dual form page designed to collect basic information from users interested in mortgage lending services. It typically consists of two forms. The first form collects essential details such as name, contact information, desired loan amount, and purpose of the loan. The second form is usually an embedded form from an outside ROI (Return on Investment) system, which gathers more specific financial and credit-related information to assess the user's eligibility for a mortgage.
 
 <img src="/img/website/prequal.png"></img>
+<img src="/img/website/prequalpost.png"></img>
 
 ## Contact Us
 
@@ -37,6 +37,7 @@ The Contact Us page provides users with various methods to get in touch with the
 
 
 <img src="/img/website/Contact.png"></img>
+<img src="/img/website/contactpost.png"></img>
 
 ## Support Pop Up
 
